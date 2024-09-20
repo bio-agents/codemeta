@@ -1,5 +1,3 @@
-{
-   "@context":"https://raw.githubusercontent.com/codemeta/codemeta/master/codemeta.jsonld",
-   "not_in_schema": "This invalid JSON name should cause an error when using JSON-LD expand/compact",
-   "descriptionn": "This JSON file is used in the Travis CI tests to ensure invalid JSON names are detected during JSON-LD expand / compact operations"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ae94866970548196f0c3b9fb119809610fcc701fd9e5add3d480a27035ab2c3
+size 350
